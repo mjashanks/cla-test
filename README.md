@@ -1,3 +1,3 @@
 # cla-test
 
-A change
+Another change
